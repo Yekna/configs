@@ -16,7 +16,7 @@
 import requests
 
 CITY = "Subotica"
-API_KEY = "80d0fe857488c557c1598fea40eafb5a"
+API_KEY = ""
 UNITS = "metric"
 #UNIT_KEY = "C"
 UNIT_KEY = "C"
