@@ -1,0 +1,2 @@
+# Prerequisites
+- Install Nerd Fonts
